@@ -1,0 +1,29 @@
+        body
+{
+    margin:0;
+    padding:0;
+    background:url("busshades.jpg");
+    background-size:fit;
+    font-family:sans-serif;
+} 
+.container
+{
+margin-top:80px;
+}
+.bt
+{
+border:none;
+outline:none;
+background:#FFCC00;
+padding:10px 20px;
+font-size:20px;
+font-family:sans-serif;
+cursor:pointer;
+margin:10px;
+border-radius:5px;
+}
+.bt:hover
+{
+background:#FF9900;
+color:#fff;
+}
